@@ -3,7 +3,7 @@
 Aplikasi ini dibuat sebagai tugas **Tema Pemrograman Lanjut 2025/2026**, dengan tujuan untuk menerapkan konsep **Pemrograman Berorientasi Objek (OOP)** pada studi kasus pengelolaan koleksi produk makeup.
 
 ## 🎯 Tujuan Program
-Program ini dirancang untuk membantu pengguna mengelola berbagai produk makeup secara terstruktur, seperti menambahkan data produk, memperbarui harga, menandai produk favorit, serta menampilkan statistik koleksi secara otomatis. Dimana kalian bisa menambahkan tanggal exp dari produk make up itu
+Program ini dirancang untuk membantu pengguna mengelola berbagai produk makeup secara terstruktur, seperti menambahkan data produk, memperbarui harga, menandai produk favorit, serta menampilkan statistik koleksi secara otomatis. Dimana kalian bisa menambahkan tanggal exp dari produk make up itu.
 
 ---
 
